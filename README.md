@@ -1,4 +1,4 @@
-MajorProjectSem7
+MajorProjectSem7 [Multiprocessor Multi-Objective Mean Field Annealing]
 ================
 
 Major Project for Semester 7, B. Tech at Jaypee Institute of Information Technology
