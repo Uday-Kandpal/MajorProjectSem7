@@ -1,7 +1,7 @@
 MajorProjectSem7 [Multiprocessor Multi-Objective Mean Field Annealing]
 ================
 
-Major Project for Semester 7, B. Tech at Jaypee Institute of Information Technology
+Major Project for Semester 7, 8 at B. Tech at Jaypee Institute of Information Technology
 
 Video presentation : https://www.youtube.com/watch?v=vl-FZBuz2gs
 requires additional UDK.jar File (ask : ukandpal2@gmail.com)
